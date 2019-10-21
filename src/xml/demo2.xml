@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE demo2 SYSTEM "demo2.dtd">
+<stus>
+	<stu>
+		<name>dsad</name>
+		<age>435</age>
+	</stu>
+</stus>
