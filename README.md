@@ -1,7 +1,6 @@
 # 发版说明
 - 生产环境打包压缩js和css文件：gulp pack
 
-# 科技创新平台前端页面开发说明
 - 开发环境需先安装，输入命令：npm install 
 - 开发环境运行，输入命令：gulp 或者 gulp dev , 如果提示找不到gulp，则需全局安装gulp，命令：npm install gulp -g
 - 生产环境打包压缩js和css文件：gulp pack
